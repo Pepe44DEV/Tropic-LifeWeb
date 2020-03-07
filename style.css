@@ -5,7 +5,7 @@ body {
     height: 65vh;
     display: flex;
     flex-direction: row;
-    justify-content: center; 
+    justify-content: center;
     align-items: center;
     background-image: url(Bilder/Background.jpg);
 }
@@ -21,7 +21,7 @@ body {
     color: white;
     font-size: 45px;
     font-family: Allerta Stencil;
-    
+
 }
 
 
@@ -35,7 +35,7 @@ body {
     color: white;
     font-size: 25px;
     font-family: Allerta Stencil;
-    
+
 }
 
 
@@ -127,28 +127,28 @@ body {
     height: 50px;
     border: none;
     outline: none;
-    opacity: 0.7;   
+    opacity: 0.7;
     color: #fff;
     background: #345974;
     cursor: pointer;
     z-index: 0;
     border-radius: 10px;
-    
+
 }
 .Regeln:hover{
     opacity: 1;
-  
+
 }
 
 .Regeln{
     position: absolute;
     top: 350px;
-    left: 622px;
+    left: 638px;
     width: 220px;
     height: 50px;
     border: none;
     outline: none;
-    opacity: 0.7;   
+    opacity: 0.7;
     color: #fff;
     background: #345974;
     cursor: pointer;
@@ -166,7 +166,7 @@ body {
     border-radius: 10px;
     border-bottom: 2px solid #5C5C5C;
     border-right: 2px solid #474747;
-    
+
 }
 
 #Logo {
@@ -202,7 +202,7 @@ body {
 
 .fa-youtube {
     position: absolute;
-    top: 240;
+    top: 300px;
     right: 0px;
     background: #bb0000;
     color: white;
@@ -226,27 +226,3 @@ body {
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
